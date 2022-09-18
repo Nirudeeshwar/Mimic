@@ -1,0 +1,18 @@
+h2 {
+    color: #d1633c;
+    font-size: 1em;
+  }
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid lightblue;
+  
+}
+body{ 
+    font-family: sans-serif;
+    margin: 0 15%;
+    font-weight: bold;
+    }
